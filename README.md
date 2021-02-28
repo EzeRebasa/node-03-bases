@@ -1,3 +1,4 @@
 # node-03-bases
 
-* npm package.json
+* npm y package.json
+* nodemon
