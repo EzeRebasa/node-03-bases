@@ -7,3 +7,5 @@
 * Requerimos módulos de node
 * Creamos archivos con el módulo fs
 * Instalamos dependencias
+* Utilizamos los paquetes de Yargs y Colors
+
